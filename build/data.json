@@ -1,0 +1,80 @@
+{
+    "name":"Ram Kumar",
+    "professionalTitle":["Designer", "Draughtsman"],
+    "profilePic":"profile1.jpg",
+    "logo":"logo1.png",
+    "activeLogo":"logo2.png",
+    "skills":[
+        {"id":"Solidworks_skill", "content": "Solidworks","percentage": "85%", "value": "85"},
+        {"id":"NX_skill", "content": "NX","percentage": "70%", "value": "70"},
+        {"id":"Mould Design_skill", "content": "Mould Design","percentage": "90%", "value": "90"},
+        {"id":"Concept Design_skill", "content": "Concept Design","percentage": "70%", "value": "70"},
+        {"id":"Valve Design", "content": "Valve Design","percentage": "70%", "value": "70"},
+        {"id":"Reverse Engineering_skill", "content": "Reverse Engineering","percentage": "80%", "value": "80"}
+    ],
+    "about_me":[
+        {"id": "first-p-about","content": "Design Engineer who loves to transform ideas into reality using softwares. I am passionate about using 3D modeling softwares to create part models and assemblies."},
+        {"id": "second-p-about", "content": "With over three years of experience in developing 3D models and drafting using Solidworks and Nx."},
+        {"id": "third-p-about", "content": "Motivated designer and draughtsman with experience in creating part model from 2D drawings, Mould designing, Reverse Engineering, Concept desinging and in Valve designing."}
+    ],
+    "projects":[
+        {
+            "name":"Mould Design",
+            "description":"Creation of Pattern & Core boxes",
+            "image":"double volute1.jpg",
+            "lists":[
+                { "image":"double volute.jpg", "title":"sample" },
+                { "image":"gate valve body1.jpg", "title":"sample" },
+                { "image":"globe valve1.jpg", "title":"sample" }
+            ]
+        },
+        {
+            "name":"Concept Design",
+            "description":"Water Level Indicator",
+            "image":"wli6.jpg",
+            "lists":[
+                { "image":"wli3.jpg", "title":"sample" },
+                { "image":"1.jpg", "title":"sample" },
+                { "image":"ASSEMBLY 3.jpg", "title":"sample" }
+            ]
+        },
+        {
+            "name":"Reverse Engineering",
+            "description":"Chain Pulley",
+            "image":"CP.jpg",
+            "lists":[
+                { "image":"cp1a.jpg", "title":"sample" },
+                { "image":"cp2.jpg", "title":"sample" },
+                { "image":"cp2a.jpg", "title":"sample" }
+            ]
+        },
+        {
+            "name":"Valve Design",
+            "description":"Ball Valve Assembly",
+            "image":"ball valve2.jpg",
+            "lists":[
+                { "image":"ball valve.jpg", "title":"sample" },
+                { "image":"globe valve4.jpg", "title":"sample" },
+                { "image":"gate valve body1.jpg", "title":"sample" }
+            ]
+        },
+        {
+            "name":"Die Design",
+            "description":"Core Box Die Assembly",
+            "image":"die1.jpg",
+            "lists":[
+                { "image":"die2.jpg", "title":"sample" }
+            ]
+        },
+        {
+            "name":"Travel With Us",
+            "description":"INTO THE FUTURE WORLD",
+            "image":"philips1.jpg",
+            "lists":[
+                { "image":"4.jpg", "title":"sample" },
+                { "image":"abc.jpg", "title":"sample" },
+                { "image":"2.jpg", "title":"sample" }
+            ]
+        }
+    ]
+}
