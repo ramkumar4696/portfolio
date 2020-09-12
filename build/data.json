@@ -21,17 +21,17 @@
         {
             "name":"Mould Design",
             "description":"Creation of Pattern & Core boxes",
-            "image":"double volute1.jpg",
+            "image":"double volute1.JPG",
             "lists":[
-                { "image":"double volute.jpg", "title":"sample" },
-                { "image":"gate valve body1.jpg", "title":"sample" },
+                { "image":"double volute.JPG", "title":"sample" },
+                { "image":"gate valve body1.JPG", "title":"sample" },
                 { "image":"globe valve1.jpg", "title":"sample" }
             ]
         },
         {
             "name":"Concept Design",
             "description":"Water Level Indicator",
-            "image":"wli6.jpg",
+            "image":"wli6.JPG",
             "lists":[
                 { "image":"wli3.jpg", "title":"sample" },
                 { "image":"1.jpg", "title":"sample" },
