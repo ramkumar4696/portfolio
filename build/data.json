@@ -1,7 +1,7 @@
 {
     "name":"Ram Kumar",
     "professionalTitle":["Designer", "Draughtsman"],
-    "profilePic":"profile1.jpg",
+    "profilePic":"profile1.JPG",
     "logo":"logo1.png",
     "activeLogo":"logo2.png",
     "skills":[
@@ -25,7 +25,7 @@
             "lists":[
                 { "image":"double volute.JPG", "title":"sample" },
                 { "image":"gate valve body1.JPG", "title":"sample" },
-                { "image":"globe valve1.jpg", "title":"sample" }
+                { "image":"globe valve1.JPG", "title":"sample" }
             ]
         },
         {
@@ -33,47 +33,47 @@
             "description":"Water Level Indicator",
             "image":"wli6.JPG",
             "lists":[
-                { "image":"wli3.jpg", "title":"sample" },
-                { "image":"1.jpg", "title":"sample" },
-                { "image":"ASSEMBLY 3.jpg", "title":"sample" }
+                { "image":"wli3.JPG", "title":"sample" },
+                { "image":"1.JPG", "title":"sample" },
+                { "image":"ASSEMBLY 3.JPG", "title":"sample" }
             ]
         },
         {
             "name":"Reverse Engineering",
             "description":"Chain Pulley",
-            "image":"CP.jpg",
+            "image":"CP.JPG",
             "lists":[
-                { "image":"cp1a.jpg", "title":"sample" },
-                { "image":"cp2.jpg", "title":"sample" },
-                { "image":"cp2a.jpg", "title":"sample" }
+                { "image":"cp1a.JPG", "title":"sample" },
+                { "image":"cp2.JPG", "title":"sample" },
+                { "image":"cp2a.JPG", "title":"sample" }
             ]
         },
         {
             "name":"Valve Design",
             "description":"Ball Valve Assembly",
-            "image":"ball valve2.jpg",
+            "image":"ball valve2.JPG",
             "lists":[
-                { "image":"ball valve.jpg", "title":"sample" },
-                { "image":"globe valve4.jpg", "title":"sample" },
-                { "image":"gate valve body1.jpg", "title":"sample" }
+                { "image":"ball valve.JPG", "title":"sample" },
+                { "image":"globe valve4.JPG", "title":"sample" },
+                { "image":"gate valve body1.JPG", "title":"sample" }
             ]
         },
         {
             "name":"Die Design",
             "description":"Core Box Die Assembly",
-            "image":"die1.jpg",
+            "image":"die1.JPG",
             "lists":[
-                { "image":"die2.jpg", "title":"sample" }
+                { "image":"die2.JPG", "title":"sample" }
             ]
         },
         {
             "name":"Travel With Us",
             "description":"INTO THE FUTURE WORLD",
-            "image":"philips1.jpg",
+            "image":"philips1.JPG",
             "lists":[
-                { "image":"4.jpg", "title":"sample" },
-                { "image":"abc.jpg", "title":"sample" },
-                { "image":"2.jpg", "title":"sample" }
+                { "image":"4.JPG", "title":"sample" },
+                { "image":"abc.JPG", "title":"sample" },
+                { "image":"2.JPG", "title":"sample" }
             ]
         }
     ]
